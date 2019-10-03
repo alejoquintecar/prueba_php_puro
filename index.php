@@ -50,7 +50,7 @@
           </div>
         </div>
         <div class="card-footer text-center">       
-          <button type="button" class="btn btn-outline-warning" id="btnDireccionarPrueba" data-direccionar="prueba">
+          <button type="button" class="btn btn-outline-warning" id="btnDireccionarPrueba" data-direccionar-prueba="2">
               Prueba <i class="fas fa-arrow-right"></i>
           </button>
         </div>

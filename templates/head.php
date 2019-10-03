@@ -2,7 +2,7 @@
 <!-- Meta Etiquetas -->
 <meta charset="UTF-8">
 <meta name="title" content="Prueba - Inicio">
-<meta name="description" content="Descripción de la WEB">    
+<meta name="description" content="Descripción de la WEB">
 <!-- Css - Bootstrap -->
 <link href="<?php echo $sRutaAssets?>assets/css/app.css" rel="stylesheet" type="text/css"/>
 <link href="<?php echo $sRutaAssets?>assets/css/bootstrap/bootstrap.css" rel="stylesheet" type="text/css"/>
